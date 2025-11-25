@@ -1,1 +1,1 @@
-Premier test pour voir si le code fonctionne pour detecter les gestes. Il faut mettre MediaPipe sur la Jetson pour pouvoir tester dans des conditions réelles et avoir un flux caméra
+Code qui grâce à Mediapipe ( Python 3.11 max ) detecte les geste Open_Palm, Closed_Fist, Pointing_Up et Victory avec un pourcentage de confiance ( pas hyper fiable car on peut pas prendre celui de Mediapipe ) 
