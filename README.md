@@ -1,4 +1,6 @@
-# Instruction
+# Purpose
+
+This repository contains the code used to test Mediapipe solution for hand gestures detection.
 
 ## Setup
 ```bash
